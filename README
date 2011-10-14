@@ -1,0 +1,1 @@
+The app checks your twitter and gmail account using their APIs and sends data to arduino using pyserial module
